@@ -1,0 +1,8 @@
+streamlit
+pandas
+rasterio
+geopandas
+fiona
+matplotlib
+numpy
+Pillow
